@@ -44,4 +44,4 @@ cacheSolve <- function(x, ...) {
   x$setInverse(InvMatrix)
   InvMatrix
 }
-  ##without cacheSolve, makeCacheMatrix does not work
+  ##without cacheSolve, makeCacheMatrix does not work.
